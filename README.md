@@ -97,13 +97,6 @@ I enjoy solving Data Structures & Algorithms problems and continuously improving
 <img src="https://img.shields.io/badge/Technology-102230?style=for-the-badge" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ananshi04&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 <p align="center">
